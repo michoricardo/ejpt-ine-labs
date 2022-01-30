@@ -1,0 +1,8 @@
+Esta práctica pretende demostrar la diferencia entre sniffear tráfico HTTP y HTTPS.
+
+Se abre wireshark: 
+- wireshark -i eth1  para iniciar wireshark en la interface eth1
+
+Nos dan un usuario y contraseña: 
+bee y bug respectivamente
+
